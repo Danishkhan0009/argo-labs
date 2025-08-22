@@ -11,7 +11,7 @@ spec:
   source:
     path: prod
     repoURL: https://github.com/Danishkhan0009/argo-labs.git
-    targetRevision: x1
+    targetRevision: new
   syncPolicy:
     automated:
       prune: true
